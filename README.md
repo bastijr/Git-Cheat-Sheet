@@ -367,7 +367,7 @@ $ git push --tags
 ---
 ### 合并与重置(Rebase)
 
-##### 将分支合并到当前HEAD中：
+##### 将 \<branch\> 分支合并到当前分支中：
 ```
 $ git merge <branch>
 ```
